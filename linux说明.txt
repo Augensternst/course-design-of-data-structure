@@ -1,0 +1,1 @@
+本项目使用了ubuntu22.04在vscode编译，并进行了cmake操作，linux文件夹源码为utf-8格式
